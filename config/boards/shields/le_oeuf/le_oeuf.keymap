@@ -58,6 +58,6 @@
                                                   &none         &none         &trans                      &trans         &none         &none
             >;
         };
-
+      };
     };
 };
